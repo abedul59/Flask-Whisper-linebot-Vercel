@@ -1,16 +1,5 @@
 line-bot-sdk==1.8.0
 openai==0.27.0
-certifi
-chardet
-click
-flask
-future
-idna
-itsdangerous
-jinja2
-markupsafe
-requests
-urllib3
-werkzeug
+Flask==2.2.2
 
 
